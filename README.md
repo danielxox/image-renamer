@@ -10,3 +10,5 @@ bar.png
 
 image001.jpg
 image002.png
+
+Adjust the script accordingly.
